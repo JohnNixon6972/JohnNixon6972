@@ -35,8 +35,8 @@
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding:10px;" />
 <img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding:10px;"/>
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding:10px;"/>
-<img align="left" alt="Flask" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="padding:10px;"/>
-<img align="left" alt="Gradle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" style="padding:10px;"/>
+<img align="left" alt="Flask" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding:10px;"/>
+<img align="left" alt="Gradle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" style="padding:10px;"/>
 <img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding:10px;"/>
 <img align="left" alt="Kotlin" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" style="padding:10px;"/>
 <img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding:10px;"/>
