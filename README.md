@@ -23,6 +23,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="padding:10px;"/>
+<img align="left" alt="Pandas" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="padding:10px;"/>
+<img align="left" alt="Pyhton" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding:10px;"/>
+<img align="left" alt="TensorFlow" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="padding:10px;"/>
+<img align="left" alt="Tomcat" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="padding:10px;"/>
 </div>
 <br>
 <br>
@@ -41,12 +46,10 @@
 <br>
 <br>
 <div>
-<img align="left" alt="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="padding:10px;"/>
-<img align="left" alt="Pandas" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="padding:10px;"/>
-<img align="left" alt="Pyhton" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding:10px;"/>
-<img align="left" alt="TensorFlow" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="padding:10px;"/>
-<img align="left" alt="Tomcat" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="padding:10px;"/>
+
 </div>
+<br>
+<br>
 <br>
 <br>
 
