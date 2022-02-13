@@ -35,4 +35,4 @@
 <img align="left" alt="Tomcat" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="padding:10px;"/>
 
 
-<img width="750px" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JohnNixon6972&show_icons=true&count_private=true&theme=radical&hide_border=false" />
+<img width="750px" align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JohnNixon6972&show_icons=true&count_private=true&theme=radical&hide_border=false" />
