@@ -49,6 +49,5 @@
 </div>
 <br>
 <br>
-<br>
-<br>
+
 <img width="750px" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JohnNixon6972&show_icons=true&count_private=true&theme=radical&hide_border=false" />
