@@ -1,8 +1,5 @@
 ### Hi there 👋
-
 ![giphy](https://user-images.githubusercontent.com/69578073/116269090-89498b80-a79b-11eb-9b93-47527f0d57ce.gif)
-
-
 - 🔭 I’m a creative individual who designs and develops user friendly products.
 - 🌱 I’m currently in disaster control mode to survive this pandemic.
 - 👯 I’m looking to collaborate on any projects possible
@@ -10,9 +7,7 @@
 - 📫 How to reach me: email or the internet
 - 😄 Pronouns: he/him/his/the (if you can use it in some grammatically correct way)
 - ⚡ Fun fact: Truly believes that India is democratic.
-
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px;" />
@@ -40,7 +35,4 @@
 <img align="left" alt="Tomcat" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="padding:10px;"/>
 
 
-
-<br>
-<br>
-<img width="800px" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JohnNixon6972&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img width="750px" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JohnNixon6972&show_icons=true&count_private=true&theme=radical&hide_border=false" />
