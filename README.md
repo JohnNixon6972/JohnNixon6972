@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Truly believes that India is democratic.
 
 ### Languages and Tools:
-<div>
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px;" />
@@ -26,10 +26,6 @@
 <img align="left" alt="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="padding:10px;"/>
 <img align="left" alt="Pandas" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="padding:10px;"/>
 <img align="left" alt="Pyhton" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding:10px;"/>
-</div>
-<br>
-<br>
-<div>
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding:10px;"/>
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding:10px;" />
@@ -42,15 +38,9 @@
 <img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding:10px;"/>
 <img align="left" alt="TensorFlow" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="padding:10px;"/>
 <img align="left" alt="Tomcat" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="padding:10px;"/>
-</div>
-<br>
-<br>
-<div>
 
 
-</div>
-<br>
-<br>
+
 <br>
 <br>
 <img width="800px" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JohnNixon6972&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
