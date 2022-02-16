@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnixon6972&label=Profile%20views&color=0e75b6&style=flat" alt="johnnixon6972" /> </p>
+
 ![giphy](https://user-images.githubusercontent.com/69578073/116269090-89498b80-a79b-11eb-9b93-47527f0d57ce.gif)
 - 🔭 I’m a creative individual who designs and develops user friendly products.
 - 🌱 I’m currently in disaster control mode to survive this pandemic.
@@ -41,6 +43,4 @@
 <img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding:10px;" />
 <img align="left" alt="TensorFlow" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" style="padding:10px;" />
 <img align="left" alt="Tomcat" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="padding:10px;" />
-
-
 <img width="750px" align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JohnNixon6972&show_icons=true&count_private=true&theme=radical&hide_border=false" />
