@@ -1,6 +1,6 @@
-### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnixon6972&label=Profile%20views&color=0e75b6&style=flat" alt="johnnixon6972" /> </p>
 
+### Hi there 👋
 ![giphy](https://user-images.githubusercontent.com/69578073/116269090-89498b80-a79b-11eb-9b93-47527f0d57ce.gif)
 - 🔭 I’m a creative individual who designs and develops user friendly products.
 - 🌱 I’m currently in disaster control mode to survive this pandemic.
