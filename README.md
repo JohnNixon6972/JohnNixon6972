@@ -53,5 +53,6 @@
           
                     
                    
-          
+<div>          
 <img width="750px" align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JohnNixon6972&show_icons=true&count_private=true&theme=radical&hide_border=false" />
+<img width ="750px" height="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnNixon6972&layout=compact&langs_count=10&theme=radical"/></div>
