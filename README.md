@@ -12,4 +12,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnNixon6972&theme=dark)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
