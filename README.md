@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/john_b_nixon/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-nixon-0a22471b3/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-nixon-0a22471b3/) 
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnNixon6972&theme=dark)
