@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnNixon6972&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnNixon6972&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnNixon6972&theme=dark&exclude=dart)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnNixon6972&theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
