@@ -7,13 +7,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-nixon-0a22471b3/) 
 
 # 📊 GitHub Stats:
-<div align="center">
+
 
   ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=JohnNixon6972&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
   ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohnNixon6972&layout=compact&langs_count=8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=JohnNixon6972&theme=dark&hide_border=false)
-![✍️ Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</div>
+
+  ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
